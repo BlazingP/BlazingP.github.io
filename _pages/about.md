@@ -1,8 +1,8 @@
 ---
 layout: about
-title: 关于
+title: 主页
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Blazing. Etc.
 
 profile:
   align: right
