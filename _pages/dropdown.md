@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dropdown
 title: 这是一个折叠按钮但是还用不上
 nav: false
 nav_order: 6
