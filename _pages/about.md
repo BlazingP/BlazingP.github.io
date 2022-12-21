@@ -1,7 +1,7 @@
 ---
 layout: about
 title: 主页
-permalink: /
+permalink: /about/
 subtitle: <a href='#'>Affiliations</a>. Blazing. Etc.
 
 profile:
