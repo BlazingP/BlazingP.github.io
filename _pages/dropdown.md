@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 这是一个折叠按钮但是还用不上
-nav: true
-nav_order: 4
+nav: false
+nav_order: 6
 dropdown: true
 children: 
     - title: 
