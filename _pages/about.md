@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: 1.png
+  image: 1.PNG
   image_circular: false # crops the image to make it circular
   address: >
     <p>テスト電話番号</p>
