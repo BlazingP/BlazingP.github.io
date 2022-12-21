@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: NIKKE 写真
 description: a project with a background image
 img: assets/img/3.JPG
 importance: 2
@@ -14,7 +14,7 @@ Make your photos 1/3, 2/3, or full width.
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
-    layout: page
+    layout: page　　素晴らしい
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
