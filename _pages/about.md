@@ -1,5 +1,5 @@
 ---
-layout: 主页
+layout: about
 title: 关于
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
