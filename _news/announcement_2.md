@@ -51,7 +51,7 @@ Snapdragon XR2 Gen 2テクノロジーの採用により、グラフィック処
 
 #### 欲しいもの　リスト
 <ul>
-    <li><a href="https://www.biccamera.com/bc/item/12102260/">Meta Quest 3</li>
+    <li><a href="https://www.biccamera.com/bc/item/12102260/">Meta Quest 3</a></li>
     <!-- <li>fixie</li>
     <li>raybans</li>
     <li>messenger bag</li> -->
